@@ -12,6 +12,14 @@ Welcome to my GitHub profile!
 📫 [jaewoo.joung@outlook.com](mailto:jaewoo.joung@outlook.com)
 
 
+# 한국
+## 서울
+### 송파구
+#### 삼전동 
+##### 삼전 초등학교
+###### 정재우
+
+
 한국에서 사용되는 중국어 단어나 표현은 **외래어**로 분류될 수 있지만, 모든 경우에 해당하는 것은 아닙니다. 구체적인 상황에 따라 다음과 같이 나눌 수 있습니다:
 
 1. **외래어로 인정되는 경우**  
